@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Thibaud Le Blan
+N;CHARSET=UTF-8:Le Blan;Thibaud;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:t.leblan@talencegestion.fr
+TEL;TYPE=CELL:0640890841
+TEL;TYPE=WORK,VOICE:0183963133
+LABEL;CHARSET=UTF-8;TYPE=WORK:Talence Gestion Lille
+ADR;CHARSET=UTF-8;TYPE=WORK:;;999 Avenue de la République;Marcq-en-Barœul;;59700;France
+TITLE;CHARSET=UTF-8:Gérant Associé
+ORG;CHARSET=UTF-8:Talence Gestion
+URL;type=WORK;CHARSET=UTF-8:https://www.talencegestion.fr/staff/thibaud-le-blan/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/thibaud-le-blan-a6550936/
+REV:2023-05-14T00:15:12.520Z
+END:VCARD
