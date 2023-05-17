@@ -197,8 +197,9 @@
   align-items: center;
 }
 .main-emailimg {
-  width: 33px;
-  height: 33px;
+  width: 30px;
+  height: 30px;
+  margin-left: 2px;
 }
 .main-text18 {
   color: rgba(0, 0, 0, 1);
