@@ -14,7 +14,7 @@
   flex-direction: column;
 }
 .main-main {
-  gap: 31px;
+  gap: 0px;
   width: 100%;
   height: auto;
   display: flex;
@@ -38,7 +38,7 @@
   height: 118px;
 }
 .main-informationsframe {
-  gap: 0;
+  gap: 0px;
   display: flex;
   padding: 5px 0;
   overflow: hidden;
@@ -46,7 +46,7 @@
   align-self: stretch;
   align-items: flex-start;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 .main-namesurnameframe {
   gap: 8px;
