@@ -46,7 +46,7 @@
   align-self: stretch;
   align-items: flex-start;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 .main-namesurnameframe {
   gap: 8px;
@@ -83,6 +83,8 @@
 .main-talenceimg{
   height: 20%;
   object-fit: contain;
+  margin: 0px;
+  padding: 0px;
 
 }
 .main-text04 {
