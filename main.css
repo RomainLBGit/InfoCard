@@ -34,8 +34,8 @@
   flex-shrink: 0;
 }
 .main-profilpicture {
-  width: 118px;
-  height: 118px;
+  width: 30%;
+  height: 30%;
 }
 .main-informationsframe {
   gap: 0px;
