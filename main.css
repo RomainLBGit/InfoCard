@@ -36,6 +36,8 @@
 .main-profilpicture {
   width: 30%;
   height: 30%;
+  max-width: 164px;
+  max-height: 164px;
 }
 .main-informationsframe {
   gap: 0px;
