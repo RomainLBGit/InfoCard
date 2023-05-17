@@ -186,9 +186,10 @@
   text-decoration: none;
 }
 .main-separation-stroke {
-  width: 353px;
+  width: 100%;
   height: 1px;
-  align-self: stretch;
+  object-fit: cover;
+  align-self: center;
 }
 .main-emailframe {
   gap: 10px;
@@ -212,9 +213,10 @@
   text-decoration: none;
 }
 .main-separation-stroke1 {
-  width: 353px;
+  width: 100%;
   height: 1px;
-  align-self: stretch;
+  object-fit: cover;
+  align-self: center;
 }
 .main-talenceframe {
   gap: 10px;
@@ -240,9 +242,10 @@
   text-decoration: none;
 }
 .main-separation-stroke2 {
-  width: 353px;
+  width: 100%;
   height: 1px;
-  align-self: stretch;
+  object-fit: cover;
+  align-self: center;
 }
 .main-linkedinframe {
   gap: 10px;
