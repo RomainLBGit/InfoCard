@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Guilty';
+  src: url('public/playground_assets/Guilty-Treasure.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .main-container {
   width: 100%;
   display: flex;
@@ -47,63 +54,74 @@
   align-items: flex-start;
 }
 .main-text {
-  color: rgba(0, 0, 0, 1);
+  color: rgba(1, 154, 158, 1);
   height: auto;
-  font-size: 15px;
-  font-style: SemiBold;
+  font-size: 30px;
+  font-style: normal;
   text-align: left;
-  font-family: Montserrat;
-  font-weight: 600;
+  font-family: "Guilty";
+  font-weight: 400;
   line-height: 127.4398684501648%;
   font-stretch: normal;
   text-decoration: none;
+  letter-spacing: 0.5px;
 }
 .main-text02 {
-  color: rgba(0, 0, 0, 1);
+  color: rgba(1, 154, 158, 1);
   height: auto;
-  font-size: 15px;
-  font-style: SemiBold;
+  font-size: 30px;
+  font-style: normal;
   text-align: left;
-  font-family: Montserrat;
-  font-weight: 600;
+  font-family: "Guilty";
+  font-weight: 400;
   line-height: 127.4398684501648%;
   font-stretch: normal;
   text-decoration: none;
+  letter-spacing: 0.5px;
+
+}
+.main-talenceimg{
+  height: 50px;
+  object-fit: contain;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
 }
 .main-text04 {
-  color: rgba(156, 156, 156, 1);
+  color: rgba(119, 119, 119, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 13px;
   align-self: stretch;
   font-style: SemiBold;
   text-align: left;
-  font-family: Montserrat;
+  font-family: Nunito;
   font-weight: 600;
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
 }
 .main-text06 {
-  color: rgba(156, 156, 156, 1);
+  color: rgba(119, 119, 119, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 18px;
   align-self: stretch;
   font-style: Regular;
   text-align: left;
-  font-family: Montserrat;
+  font-family: "Guilty";
   font-weight: 500;
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+  letter-spacing: 0.5px;
 }
 .main-text08 {
-  color: rgba(156, 156, 156, 1);
+  color: rgba(119, 119, 119, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 13px;
   align-self: stretch;
   font-style: Medium;
   text-align: left;
-  font-family: Montserrat;
+  font-family: Nunito;
   font-weight: 500;
   line-height: 150%;
   font-stretch: normal;
@@ -113,20 +131,22 @@
   font-weight: 500;
 }
 .main-text11 {
-  color: rgba(156, 156, 156, 1);
+  color: rgba(119, 119, 119, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 13px;
   align-self: stretch;
   font-style: Medium;
   text-align: left;
-  font-family: Montserrat;
+  font-family: Nunito;
   font-weight: 500;
   line-height: 150%;
   font-stretch: normal;
   text-decoration: none;
 }
 .main-text12 {
+  color: rgba(119, 119, 119, 1);
   font-weight: 500;
+  font-size: 13px;
 }
 .main-more {
   gap: 5px;
@@ -153,12 +173,12 @@
   height: 23px;
 }
 .main-text14 {
-  color: rgba(0, 0, 0, 1);
+  color: rgba(34,34,34, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 13px;
   font-style: Regular;
   text-align: left;
-  font-family: Montserrat;
+  font-family: Nunito;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -174,12 +194,12 @@
   height: 23px;
 }
 .main-text16 {
-  color: rgba(0, 0, 0, 1);
+  color: rgba(34,34,34, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 13px;
   font-style: Regular;
   text-align: left;
-  font-family: Montserrat;
+  font-family: Nunito;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -202,12 +222,12 @@
   margin-left: 2px;
 }
 .main-text18 {
-  color: rgba(0, 0, 0, 1);
+  color: rgba(34,34,34, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 13px;
   font-style: Regular;
   text-align: left;
-  font-family: Montserrat;
+  font-family: Nunito;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -231,12 +251,12 @@
   height: 33px;
 }
 .main-text20 {
-  color: rgba(0, 0, 0, 1);
+  color: rgba(34,34,34, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 13px;
   font-style: Regular;
   text-align: left;
-  font-family: Montserrat;
+  font-family: Nunito;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -260,12 +280,12 @@
   height: 36px;
 }
 .main-text22 {
-  color: rgba(0, 0, 0, 1);
+  color: rgba(34,34,34, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 13px;
   font-style: Regular;
   text-align: left;
-  font-family: Montserrat;
+  font-family: Nunito;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -287,10 +307,10 @@
 .main-text24 {
   color: rgba(0, 0, 0, 1);
   height: auto;
-  font-size: 12px;
+  font-size: 13px;
   font-style: Medium;
   text-align: center;
-  font-family: Montserrat;
+  font-family: Nunito;
   font-weight: 500;
   line-height: normal;
   font-stretch: normal;
