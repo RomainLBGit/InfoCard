@@ -28,7 +28,7 @@
 .main-maininformationframe {
   gap: 10px;
   display: flex;
-  padding: 7px 9px;
+  padding: 0px 9px;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
@@ -36,7 +36,6 @@
 .main-profilpicture {
   width: 40%;
   max-width: 300px;
-  clip-path: circle();
 }
 .main-informationsframe {
   gap: 0px;
