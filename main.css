@@ -34,12 +34,9 @@
   flex-shrink: 0;
 }
 .main-profilpicture {
-  width: 30%;
-  height: 30%;
-  max-width: 164px;
-  max-height: 164px;
+  width: 40%;
+  max-width: 300px;
   clip-path: circle();
-  object-fit: cover;
 }
 .main-informationsframe {
   gap: 0px;
